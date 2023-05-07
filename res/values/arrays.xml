@@ -13,15 +13,8 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <array name="wallpapers" translatable="false">
-        <item>abstract_ink</item>
-        <item>abstract_orderofchaos</item>
-        <item>abstract_spacestory</item>
-        <item>nature_ice</item>
-        <item>nature_nebula</item>
-        <item>nature_night</item>
-        <item>nature_sea</item>
-        <item>space_riseup</item>
-        <item>urban_dayroad</item>
-        <item>urban_nightroad</item>
+        <item>strange_dimension_fractal_1</item>
+        <item>strange_dimension_fractal_2</item>
+        <item>strange_dimension_vortex_1</item>
     </array>
 </resources>
